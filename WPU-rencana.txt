@@ -1,8 +1,13 @@
 RENCANA BARU
 - C++
   * mengelola arduino
+    < mengontrol servo
+    < mengendalikan led
   * sistem monitoring
 - javascript
 - HTML
+  < membuat backhand
 - CSS
 - PHP Frameworks
+  < laravel
+- python
