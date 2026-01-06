@@ -3,6 +3,7 @@ RENCANA BARU
   * mengelola arduino
     < mengontrol servo
     < mengendalikan led
+    < mengendalikan driver
   * sistem monitoring
 - javascript
 - HTML
