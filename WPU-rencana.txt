@@ -2,7 +2,10 @@ RENCANA BARU
 - C++
   * mengelola arduino
   * sistem monitoring
+    < Sistem IoT
+    < Pengendalian Jarak Jauh
 - javascript
 - HTML
+  < Pengembangan webiner
 - CSS
-- PHP Frameworks
+
