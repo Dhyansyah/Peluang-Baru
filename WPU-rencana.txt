@@ -1,11 +1,16 @@
 RENCANA BARU
 - C++
   * mengelola arduino
+    < mengontrol servo
+    < mengendalikan led
+    < mengendalikan driver
   * sistem monitoring
     < Sistem IoT
     < Pengendalian Jarak Jauh
 - javascript
 - HTML
-  < Pengembangan webiner
+  < membuat backhand
 - CSS
-
+- PHP Frameworks
+  < laravel
+- python
