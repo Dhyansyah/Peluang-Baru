@@ -2,6 +2,7 @@ RENCANA BARU
 - C++
   * mengelola arduino
   * sistem monitoring
+- javascript
 - HTML
 - CSS
 - PHP Frameworks
