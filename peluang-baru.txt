@@ -1,5 +1,5 @@
 JADWAL PELUANG RISET
 - Belajar bagaimana sistem github
-- mengetahui apa itu github
 - mencari pengaplikasian github dalam bidang teknik elektro
 - menciptakan sistem pada IoT maupun mikrocontroller
+- sistem pada git
